@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sylvio\\source\\repos\\sdk_laboratoire1_8\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj": {}
+    "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sylvio\\source\\repos\\sdk_laboratoire1_8\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj": {
+    "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sylvio\\source\\repos\\sdk_laboratoire1_8\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
+        "projectUniqueName": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
         "projectName": "sdk_laboratoire1_8",
-        "projectPath": "C:\\Users\\Sylvio\\source\\repos\\sdk_laboratoire1_8\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
+        "projectPath": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
         "packagesPath": "C:\\Users\\Sylvio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sylvio\\source\\repos\\sdk_laboratoire1_8\\sdk_laboratoire1_8\\obj\\",
+        "outputPath": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
