@@ -13,3 +13,18 @@ C:\Users\Sylvio\source\repos\sdk_laboratoire1_8\sdk_laboratoire1_8\obj\Debug\net
 C:\Users\Sylvio\source\repos\sdk_laboratoire1_8\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.pdb
 C:\Users\Sylvio\source\repos\sdk_laboratoire1_8\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.genruntimeconfig.cache
 C:\Users\Sylvio\source\repos\sdk_laboratoire1_8\sdk_laboratoire1_8\obj\Debug\net6.0\ref\sdk_laboratoire1_8.dll
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\sdk_laboratoire1_8.exe
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\sdk_laboratoire1_8.deps.json
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\sdk_laboratoire1_8.runtimeconfig.json
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\sdk_laboratoire1_8.dll
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\ref\sdk_laboratoire1_8.dll
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\bin\Debug\net6.0\sdk_laboratoire1_8.pdb
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.csproj.AssemblyReference.cache
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.AssemblyInfoInputs.cache
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.AssemblyInfo.cs
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.csproj.CoreCompileInputs.cache
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.dll
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\ref\sdk_laboratoire1_8.dll
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.pdb
+C:\Users\arman\Grasset Code\SDK_Lab1\sdk_laboratoire1_8\obj\Debug\net6.0\sdk_laboratoire1_8.genruntimeconfig.cache

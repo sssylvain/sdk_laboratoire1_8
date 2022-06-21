@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sylvio\\.nuget\\packages\\": {},
+    "C:\\Users\\arman\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
+      "projectUniqueName": "C:\\Users\\arman\\Grasset Code\\SDK_Lab1\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
       "projectName": "sdk_laboratoire1_8",
-      "projectPath": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
-      "packagesPath": "C:\\Users\\Sylvio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sylvio\\sdk_laboratoire1_8\\obj\\",
+      "projectPath": "C:\\Users\\arman\\Grasset Code\\SDK_Lab1\\sdk_laboratoire1_8\\sdk_laboratoire1_8.csproj",
+      "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arman\\Grasset Code\\SDK_Lab1\\sdk_laboratoire1_8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sylvio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

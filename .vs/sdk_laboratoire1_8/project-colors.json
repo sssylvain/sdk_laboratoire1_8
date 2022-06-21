@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b844f58-1959-4f3d-939c-96490298ae69": {
+      "ProjectGuid": "4b844f58-1959-4f3d-939c-96490298ae69",
+      "DisplayName": "sdk_laboratoire1_8",
+      "ColorIndex": 0
+    },
+    "10fd04ae-da55-4fb4-b2b0-39b5aab260ea": {
+      "ProjectGuid": "10fd04ae-da55-4fb4-b2b0-39b5aab260ea",
+      "DisplayName": "sdk_laboratoiree1_8",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
